@@ -37,15 +37,6 @@ Goodreads Library Manager adds a compact management panel to Goodreads **My Book
 
 The public store link will be added after approval.
 
-### Manual installation
-
-1. Download the latest ZIP from [Releases](https://github.com/zixload/goodreads-library-manager/releases/latest).
-2. Extract it to a permanent folder.
-3. Open `chrome://extensions` or `edge://extensions`.
-4. Enable **Developer mode**.
-5. Choose **Load unpacked** and select the extracted folder.
-6. Open Goodreads **My Books** and click the extension icon.
-
 ## Permissions
 
 The extension injects its interface only on `https://www.goodreads.com/review/list*`. This access is required to read the visible library and perform actions requested by the user. It does not request access to unrelated websites.
